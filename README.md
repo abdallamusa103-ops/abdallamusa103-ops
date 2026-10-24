@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I'm currently working on **real-world Android apps. My proudest upcoming release is "Ask a Muslim," built with MVVM and Clean Architecture.**
+- 🔭 I'm currently working on **real-world Android apps. My proudest upcoming release is ["Ask a Muslim"](https://github.com/abdallamusa103-ops/Ask-A-Muslim-App), built with MVVM and Clean Architecture.**
 - 🌱 I'm currently learning **Jetpack Compose, Android SDK, Retrofit/Ktor, Clean Architecture, Performance, Coroutines, and Unit/UI Testing.**
 - 👯 I'm looking to collaborate on **building open-source Android apps with Clean Architecture, EdTech platforms, and any challenging apps or purpose-driven businesses.**
 - 🤝 I'm looking for help with **mastering mobile System Design, scaling architectures, cloud/backend networking, and setting up robust CI/CD pipelines and app distribution workflows.**
@@ -42,16 +42,27 @@
 <table align="center">
   <tr>
     <td width="50%">
+      <b>Ask a Muslim</b><br/>
+      <i>Islamic Q&A Application</i><br/><br/>
+      Built with MVVM and Clean Architecture principles to ensure a scalable, testable, and maintainable codebase.<br/><br/>
+      <a href="https://github.com/abdallamusa103-ops/Ask-A-Muslim-App">View Source Code</a>
+    </td>
+    <td width="50%">
       <b>SalesAppDemo</b><br/>
       <i>Native Android Application</i><br/><br/>
       Demonstrates modern Android development utilizing Kotlin, MVVM architecture, and responsive UI design.<br/><br/>
       <a href="https://github.com/abdallamusa103-ops/SalesAppDemo">View Source Code</a>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <b>TaskHub</b><br/>
       <i>Task Management Tool</i><br/><br/>
       Engineered with Clean Architecture principles, ensuring strict separation of concerns, scalability, and robust state management.<br/><br/>
        <a href="https://github.com/abdallamusa103-ops/TaskHub">View Source Code</a>
+    </td>
+    <td width="50%">
+      <!-- Space for future project -->
     </td>
   </tr>
 </table>
